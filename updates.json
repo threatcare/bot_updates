@@ -1,0 +1,20 @@
+{
+  "linux-x64-prod": {
+    "readme": "First release",
+    "install":  "https://s3.amazonaws.com/vthreat-bot/latest-updates/linux/vThreat.Bot.deb",
+    "version": "1.0.1",
+    "platform": "linux"
+  },
+  "win32-x64-prod": {
+    "readme": "First release",
+    "install": "https://s3.amazonaws.com/vthreat-bot/latest-updates/win/vThreat.Bot.exe",
+    "version": "1.0.1",
+    "platform": "win32"
+  },
+  "darwin-x64-prod": {
+    "readme": "First Release",
+    "install": "https://s3.amazonaws.com/vthreat-bot/latest-updates/osx/vThreat.Bot.dmg",
+    "version": "1.0.1",
+    "platform": "darwin"
+  }
+}
