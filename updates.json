@@ -14,7 +14,7 @@
   "darwin-x64-prod": {
     "readme": "First Release",
     "install": "https://s3.amazonaws.com/vthreat-bot/latest-updates/osx/vThreat+Bot.dmg",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "platform": "darwin"
   }
 }
