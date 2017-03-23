@@ -6,8 +6,9 @@
     "readme": "Second version"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/example-win32-x64-prod-v0.0.2",
-    "version": "0.0.2",
+    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v4.0.0",
+    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v4.0.0/vThreat.Bot.Setup.4.0.0.exe",
+    "version": "4.0.0",
     "platform": "win32",
     "readme": "Second version"
   },
