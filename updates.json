@@ -1,14 +1,14 @@
 {
   "linux-x64-prod": {
-    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v4.0.0/vThreat-Bot-4.0.0-x86_64.AppImage",
-    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v4.0.0/vThreat-Bot-4.0.0-x86_64.AppImage",
-    "version": "4.0.0",
+    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v5.0.0/vThreat-Bot-5.0.0-x86_64.AppImage",
+    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v5.0.0/vThreat-Bot-5.0.0-x86_64.AppImage",
+    "version": "5.0.0",
     "platform": "linux"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v4.0.0",
-    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v4.0.0/vThreat.Bot.Setup.4.0.0.exe",
-    "version": "4.0.0",
+    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v5.0.0",
+    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v5.0.0/vThreat.Bot.Setup.5.0.0.exe",
+    "version": "5.0.0",
     "platform": "win32"
   }
 }
