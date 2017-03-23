@@ -10,9 +10,5 @@
     "install": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v4.0.0/vThreat.Bot.Setup.4.0.0.exe",
     "version": "4.0.0",
     "platform": "win32"
-  },
-  "darwin-x64-prod": {
-    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/darwin-x64-prod-v5.0.0/release.json",
-    "version": "5.0.0"
   }
 }
