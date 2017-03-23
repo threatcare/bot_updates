@@ -12,8 +12,8 @@
     "readme": "Second version"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/darwin-x64-prod-v2.0.0/release.json",
-    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/darwin-x64-prod-v2.0.0/vthreat-2.0.0.dmg",
-    "version": "2.0.0"
+    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/darwin-x64-prod-v3.0.0/release.json",
+    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/darwin-x64-prod-v3.0.0/vthreat-3.0.0.dmg",
+    "version": "3.0.0"
   }
 }
