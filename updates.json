@@ -1,7 +1,7 @@
 {
   "linux-x64-prod": {
-    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v5.0.0/vThreat-Bot-5.0.0-x86_64.AppImage",
-    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v5.0.0/vThreat-Bot-5.0.0-x86_64.AppImage",
+    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v5.0.0/vThreat-Bot_5.0.0_amd64.deb",
+    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v5.0.0/vThreat-Bot_5.0.0_amd64.deb",
     "version": "5.0.0",
     "platform": "linux"
   },
