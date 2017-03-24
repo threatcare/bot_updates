@@ -1,20 +1,20 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/example-linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
-    "version": "0.0.2",
-    "platform": "linux",
-    "readme": "Second version"
+    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v1.0.0/vThreat-Bot-1.0.0-x86_64.AppImage",
+    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/linux-x64-prod-v1.0.0/vThreat-Bot-1.0.0-x86_64.AppImage",
+    "version": "1.0.0",
+    "platform": "linux"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/example-win32-x64-prod-v0.0.2",
-    "version": "0.0.2",
-    "platform": "win32",
-    "readme": "Second version"
+    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v1.0.0",
+    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/win32-x64-prod-v1.0.0/vThreat.Bot.Setup.1.0.0.exe",
+    "version": "1.0.0",
+    "platform": "win32"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/v2.0.0/latest-mac.json",
-    "version": "2.0.0",
-    "platform": "darwin",
-    "readme": "Second version"
-  }
+    "update": "https://github.com/tjoye20/vthreat-updates/releases/download/darwin-x64-prod-v1.0.0/release.json",
+    "install": "https://github.com/tjoye20/vthreat-updates/releases/download/darwin-x64-prod-v1.0.0/vThreat.Bot-1.0.0.dmg",
+    "version": "1.0.0",
+    "platform": "darwin"
+    }
 }
