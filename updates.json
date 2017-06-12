@@ -1,7 +1,7 @@
 {
   "linux-x64-prod": {
-    "install": "https://github.com/threatcare/bot_updates/releases/download/linux-x64-prod-v1.0.0/Threatcare-Bot-1.1.0-x86_64.AppImage",
-    "update": "https://github.com/threatcare/bot_updates/releases/download/linux-x64-prod-v1.0.0/Threatcare-Bot-1.1.0-x86_64.AppImage",
+    "install": "https://github.com/threatcare/bot_updates/releases/download/linux-x64-prod-v1.1.0/Threatcare-Bot-1.1.0-x86_64.AppImage",
+    "update": "https://github.com/threatcare/bot_updates/releases/download/linux-x64-prod-v1.1.0/Threatcare-Bot-1.1.0-x86_64.AppImage",
     "version": "1.1.0",
     "platform": "linux"
   },
