@@ -1,19 +1,19 @@
 {
   "linux-x64-prod": {
-    "install": "https://github.com/threatcare/bot_updates/releases/download/linux-x64-prod-v1.6.1/Threatcare-Bot-1.6.1-x86_64.AppImage",
-    "update": "https://github.com/threatcare/bot_updates/releases/download/linux-x64-prod-v1.6.1/Threatcare-Bot-1.6.1-x86_64.AppImage",
-    "version": "1.6.1",
+    "install": "https://github.com/threatcare/bot_updates/releases/download/linux-x64-prod-v1.6.2/Threatcare-Bot-1.6.2-x86_64.AppImage",
+    "update": "https://github.com/threatcare/bot_updates/releases/download/linux-x64-prod-v1.6.2/Threatcare-Bot-1.6.2-x86_64.AppImage",
+    "version": "1.6.2",
     "platform": "linux"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/threatcare/bot_updates/releases/download/win32-x64-prod-v1.6.1",
-    "install": "https://github.com/threatcare/bot_updates/releases/download/win32-x64-prod-v1.6.1/Threatcare.Bot.Setup.1.6.1.exe",
-    "version": "1.6.1",
+    "update": "https://github.com/threatcare/bot_updates/releases/download/win32-x64-prod-v1.6.2",
+    "install": "https://github.com/threatcare/bot_updates/releases/download/win32-x64-prod-v1.6.2/Threatcare.Bot.Setup.1.6.2.exe",
+    "version": "1.6.2",
     "platform": "win32"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/threatcare/bot_updates/releases/download/darwin-x64-prod-v1.6.1/release.json",
-    "install": "https://github.com/threatcare/bot_updates/releases/download/darwin-x64-prod-v1.6.1/Threatcare-Bot-1.6.1.dmg",
-    "version": "1.6.1"
+    "update": "https://github.com/threatcare/bot_updates/releases/download/darwin-x64-prod-v1.6.2/release.json",
+    "install": "https://github.com/threatcare/bot_updates/releases/download/darwin-x64-prod-v1.6.2/Threatcare-Bot-1.6.2.dmg",
+    "version": "1.6.2"
   }
 }
