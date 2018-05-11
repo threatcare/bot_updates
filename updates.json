@@ -16,7 +16,7 @@
     "install": "https://github.com/threatcare/bot_updates/releases/download/win32-x86-prod-v1.6.2/Threatcare.Bot.Setup.1.6.2.exe",
     "version": "1.6.2",
     "platform": "win32"
-  }
+  },
   "darwin-x64-prod": {
     "update": "https://github.com/threatcare/bot_updates/releases/download/darwin-x64-prod-v1.6.2/release.json",
     "install": "https://github.com/threatcare/bot_updates/releases/download/darwin-x64-prod-v1.6.2/Threatcare-Bot-1.6.2.dmg",
