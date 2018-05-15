@@ -20,6 +20,7 @@
   "darwin-x64-prod": {
     "update": "https://github.com/threatcare/bot_updates/releases/download/darwin-x64-prod-v1.7.0/release.json",
     "install": "https://github.com/threatcare/bot_updates/releases/download/darwin-x64-prod-v1.7.0/Threatcare-Bot-1.7.0.dmg",
-    "version": "1.7.0"
+    "version": "1.7.0",
+    "platform": "darwin"
   }
 }
