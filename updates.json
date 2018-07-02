@@ -5,7 +5,7 @@
     "version": "1.11.2",
     "platform": "linux"
   },
-  "windows-portable": {
+  "windows-portable-prod": {
     "update": "https://github.com/threatcare/bot_updates/releases/tag/windows-portable-v1.11.2",
     "install": "https://github.com/threatcare/bot_updates/releases/tag/windows-portable-v1.11.2/Threatcare.Bot.1.11.2.exe",
     "version": "1.11.2",
